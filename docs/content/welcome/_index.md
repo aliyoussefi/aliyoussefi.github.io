@@ -14,3 +14,5 @@ You can contact me via these communication channels:
 [YouTube Channel](http://www.youtube.com/@aliyoussefi9204)
 
 [Email](mailto:ali.youssefi@live.com)
+
+[Well-Architected Framework](../../../waf/Reliability/Assessment%20Guidance%2001-How%20do%20you%20keep%20the%20workload%20simple%20and%20efficient.md)
